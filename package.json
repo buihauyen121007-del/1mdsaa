@@ -1,0 +1,23 @@
+{
+  "name": "dai-thanh-partner-ai-agent",
+  "version": "1.0.0",
+  "description": "Dai Thanh B2B Partner Evaluation AI Agent System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node scripts/build-static.js"
+  },
+  "keywords": [
+    "ai-agent",
+    "b2b",
+    "evaluation",
+    "workflow",
+    "vercel"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "Dai Thanh AI Agent Team",
+  "license": "MIT"
+}
+
